@@ -2,11 +2,11 @@
 
 <strong>Desktop</strong>
 <br>
-<img src="Assets/deskt.png" width="75%" height="75%">
+<img src="deskt.png" width="75%" height="75%">
 
 <strong>Mobile/PWA</strong>
 <br>
-<img src="Assets/mobile.png" width="25%" height="25%">
+<img src="mobile.png" width="25%" height="25%">
 
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
